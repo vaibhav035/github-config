@@ -1,1 +1,1 @@
-# eazybytes-config
+# github-config
